@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\Practice01_EquipmentRegistry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4FEC01-7F44-4A01-9A01-000000000001}|EquipmentRegistry.Legacy\\EquipmentRegistry.Legacy.csproj|c:\\users\\student\\desktop\\practice01_equipmentregistry\\equipmentregistry.legacy\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4FEC01-7F44-4A01-9A01-000000000001}|EquipmentRegistry.Legacy\\EquipmentRegistry.Legacy.csproj|solutionrelative:equipmentregistry.legacy\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4FEC01-7F44-4A01-9A01-000000000001}|EquipmentRegistry.Legacy\\EquipmentRegistry.Legacy.csproj|c:\\users\\student\\desktop\\practice01_equipmentregistry\\equipmentregistry.legacy\\reportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4FEC01-7F44-4A01-9A01-000000000001}|EquipmentRegistry.Legacy\\EquipmentRegistry.Legacy.csproj|solutionrelative:equipmentregistry.legacy\\reportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4FEC01-7F44-4A01-9A01-000000000002}|EquipmentRegistry.Legacy.Tests\\EquipmentRegistry.Legacy.Tests.csproj|c:\\users\\student\\desktop\\practice01_equipmentregistry\\equipmentregistry.legacy.tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4FEC01-7F44-4A01-9A01-000000000002}|EquipmentRegistry.Legacy.Tests\\EquipmentRegistry.Legacy.Tests.csproj|solutionrelative:equipmentregistry.legacy.tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4FEC01-7F44-4A01-9A01-000000000001}|EquipmentRegistry.Legacy\\EquipmentRegistry.Legacy.csproj|c:\\users\\student\\desktop\\practice01_equipmentregistry\\equipmentregistry.legacy\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4FEC01-7F44-4A01-9A01-000000000001}|EquipmentRegistry.Legacy\\EquipmentRegistry.Legacy.csproj|solutionrelative:equipmentregistry.legacy\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4FEC01-7F44-4A01-9A01-000000000001}|EquipmentRegistry.Legacy\\EquipmentRegistry.Legacy.csproj|c:\\users\\student\\desktop\\practice01_equipmentregistry\\equipmentregistry.legacy\\equipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4FEC01-7F44-4A01-9A01-000000000001}|EquipmentRegistry.Legacy\\EquipmentRegistry.Legacy.csproj|solutionrelative:equipmentregistry.legacy\\equipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Practice01_EquipmentRegistry\\EquipmentRegistry.Legacy.Tests\\Program.cs",
+              "RelativeDocumentMoniker": "EquipmentRegistry.Legacy.Tests\\Program.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Practice01_EquipmentRegistry\\EquipmentRegistry.Legacy.Tests\\Program.cs",
+              "RelativeToolTip": "EquipmentRegistry.Legacy.Tests\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T10:28:21.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Practice01_EquipmentRegistry\\EquipmentRegistry.Legacy\\ReportFormatter.cs",
+              "RelativeDocumentMoniker": "EquipmentRegistry.Legacy\\ReportFormatter.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Practice01_EquipmentRegistry\\EquipmentRegistry.Legacy\\ReportFormatter.cs",
+              "RelativeToolTip": "EquipmentRegistry.Legacy\\ReportFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T10:28:13.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Practice01_EquipmentRegistry\\EquipmentRegistry.Legacy\\InventoryService.cs",
+              "RelativeDocumentMoniker": "EquipmentRegistry.Legacy\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Practice01_EquipmentRegistry\\EquipmentRegistry.Legacy\\InventoryService.cs*",
+              "RelativeToolTip": "EquipmentRegistry.Legacy\\InventoryService.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T10:27:07.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EquipmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Practice01_EquipmentRegistry\\EquipmentRegistry.Legacy\\EquipmentRepository.cs",
+              "RelativeDocumentMoniker": "EquipmentRegistry.Legacy\\EquipmentRepository.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Practice01_EquipmentRegistry\\EquipmentRegistry.Legacy\\EquipmentRepository.cs",
+              "RelativeToolTip": "EquipmentRegistry.Legacy\\EquipmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T10:27:05.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Practice01_EquipmentRegistry\\EquipmentRegistry.Legacy\\Equipment.cs",
+              "RelativeDocumentMoniker": "EquipmentRegistry.Legacy\\Equipment.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Practice01_EquipmentRegistry\\EquipmentRegistry.Legacy\\Equipment.cs",
+              "RelativeToolTip": "EquipmentRegistry.Legacy\\Equipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T10:27:04.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

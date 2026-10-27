@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\Practice01_EquipmentRegistry\EquipmentRegistry.Legacy\bin\Debug\net8.0\EquipmentRegistry.Legacy.exe
+C:\Users\student\Desktop\Practice01_EquipmentRegistry\EquipmentRegistry.Legacy\bin\Debug\net8.0\EquipmentRegistry.Legacy.deps.json
+C:\Users\student\Desktop\Practice01_EquipmentRegistry\EquipmentRegistry.Legacy\bin\Debug\net8.0\EquipmentRegistry.Legacy.runtimeconfig.json
+C:\Users\student\Desktop\Practice01_EquipmentRegistry\EquipmentRegistry.Legacy\bin\Debug\net8.0\EquipmentRegistry.Legacy.dll
+C:\Users\student\Desktop\Practice01_EquipmentRegistry\EquipmentRegistry.Legacy\bin\Debug\net8.0\EquipmentRegistry.Legacy.pdb
+C:\Users\student\Desktop\Practice01_EquipmentRegistry\EquipmentRegistry.Legacy\obj\Debug\net8.0\EquipmentRegistry.Legacy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Practice01_EquipmentRegistry\EquipmentRegistry.Legacy\obj\Debug\net8.0\EquipmentRegistry.Legacy.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Practice01_EquipmentRegistry\EquipmentRegistry.Legacy\obj\Debug\net8.0\EquipmentRegistry.Legacy.AssemblyInfo.cs
+C:\Users\student\Desktop\Practice01_EquipmentRegistry\EquipmentRegistry.Legacy\obj\Debug\net8.0\EquipmentRegistry.Legacy.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Practice01_EquipmentRegistry\EquipmentRegistry.Legacy\obj\Debug\net8.0\EquipmentRegistry.Legacy.dll
+C:\Users\student\Desktop\Practice01_EquipmentRegistry\EquipmentRegistry.Legacy\obj\Debug\net8.0\refint\EquipmentRegistry.Legacy.dll
+C:\Users\student\Desktop\Practice01_EquipmentRegistry\EquipmentRegistry.Legacy\obj\Debug\net8.0\EquipmentRegistry.Legacy.pdb
+C:\Users\student\Desktop\Practice01_EquipmentRegistry\EquipmentRegistry.Legacy\obj\Debug\net8.0\EquipmentRegistry.Legacy.genruntimeconfig.cache
+C:\Users\student\Desktop\Practice01_EquipmentRegistry\EquipmentRegistry.Legacy\obj\Debug\net8.0\ref\EquipmentRegistry.Legacy.dll
