@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\Practice05_AsyncAwait\AsyncMonitor\bin\Debug\net8.0\AsyncMonitor.exe
+C:\Users\student\Desktop\Practice05_AsyncAwait\AsyncMonitor\bin\Debug\net8.0\AsyncMonitor.deps.json
+C:\Users\student\Desktop\Practice05_AsyncAwait\AsyncMonitor\bin\Debug\net8.0\AsyncMonitor.runtimeconfig.json
+C:\Users\student\Desktop\Practice05_AsyncAwait\AsyncMonitor\bin\Debug\net8.0\AsyncMonitor.dll
+C:\Users\student\Desktop\Practice05_AsyncAwait\AsyncMonitor\bin\Debug\net8.0\AsyncMonitor.pdb
+C:\Users\student\Desktop\Practice05_AsyncAwait\AsyncMonitor\obj\Debug\net8.0\AsyncMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Practice05_AsyncAwait\AsyncMonitor\obj\Debug\net8.0\AsyncMonitor.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Practice05_AsyncAwait\AsyncMonitor\obj\Debug\net8.0\AsyncMonitor.AssemblyInfo.cs
+C:\Users\student\Desktop\Practice05_AsyncAwait\AsyncMonitor\obj\Debug\net8.0\AsyncMonitor.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Practice05_AsyncAwait\AsyncMonitor\obj\Debug\net8.0\AsyncMonitor.dll
+C:\Users\student\Desktop\Practice05_AsyncAwait\AsyncMonitor\obj\Debug\net8.0\refint\AsyncMonitor.dll
+C:\Users\student\Desktop\Practice05_AsyncAwait\AsyncMonitor\obj\Debug\net8.0\AsyncMonitor.pdb
+C:\Users\student\Desktop\Practice05_AsyncAwait\AsyncMonitor\obj\Debug\net8.0\AsyncMonitor.genruntimeconfig.cache
+C:\Users\student\Desktop\Practice05_AsyncAwait\AsyncMonitor\obj\Debug\net8.0\ref\AsyncMonitor.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AsyncMonitor.Tests/1.0.0": {
+        "dependencies": {
+          "AsyncMonitor": "1.0.0"
+        },
+        "runtime": {
+          "AsyncMonitor.Tests.dll": {}
+        }
+      },
+      "AsyncMonitor/1.0.0": {
+        "runtime": {
+          "AsyncMonitor.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsyncMonitor.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsyncMonitor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
