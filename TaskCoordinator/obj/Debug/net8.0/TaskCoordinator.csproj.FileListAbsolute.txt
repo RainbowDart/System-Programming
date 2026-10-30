@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\Practice06_TaskCoordination\TaskCoordinator\bin\Debug\net8.0\TaskCoordinator.exe
+C:\Users\student\Desktop\Practice06_TaskCoordination\TaskCoordinator\bin\Debug\net8.0\TaskCoordinator.deps.json
+C:\Users\student\Desktop\Practice06_TaskCoordination\TaskCoordinator\bin\Debug\net8.0\TaskCoordinator.runtimeconfig.json
+C:\Users\student\Desktop\Practice06_TaskCoordination\TaskCoordinator\bin\Debug\net8.0\TaskCoordinator.dll
+C:\Users\student\Desktop\Practice06_TaskCoordination\TaskCoordinator\bin\Debug\net8.0\TaskCoordinator.pdb
+C:\Users\student\Desktop\Practice06_TaskCoordination\TaskCoordinator\obj\Debug\net8.0\TaskCoordinator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Practice06_TaskCoordination\TaskCoordinator\obj\Debug\net8.0\TaskCoordinator.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Practice06_TaskCoordination\TaskCoordinator\obj\Debug\net8.0\TaskCoordinator.AssemblyInfo.cs
+C:\Users\student\Desktop\Practice06_TaskCoordination\TaskCoordinator\obj\Debug\net8.0\TaskCoordinator.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Practice06_TaskCoordination\TaskCoordinator\obj\Debug\net8.0\TaskCoordinator.dll
+C:\Users\student\Desktop\Practice06_TaskCoordination\TaskCoordinator\obj\Debug\net8.0\refint\TaskCoordinator.dll
+C:\Users\student\Desktop\Practice06_TaskCoordination\TaskCoordinator\obj\Debug\net8.0\TaskCoordinator.pdb
+C:\Users\student\Desktop\Practice06_TaskCoordination\TaskCoordinator\obj\Debug\net8.0\TaskCoordinator.genruntimeconfig.cache
+C:\Users\student\Desktop\Practice06_TaskCoordination\TaskCoordinator\obj\Debug\net8.0\ref\TaskCoordinator.dll
